@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Gemini Chat Exporter
 
 ## 项目简介
@@ -26,3 +27,4 @@
 刷新 Gemini 页面即可开始使用。
 
 ## Chrome 商店下载 即将上架，敬请期待...
+
